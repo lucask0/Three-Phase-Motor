@@ -1,0 +1,8 @@
+stm32f4xx_it.c:56:6:SysTick_Handler	8	static
+stm32f4xx_it.c:78:6:TIM1_BRK_TIM9_IRQHandler	8	static
+stm32f4xx_it.c:140:6:rampa	8	static
+stm32f4xx_it.c:103:6:TIM1_UP_TIM10_IRQHandler	24	static
+stm32f4xx_it.c:159:6:TIM1_CC_IRQHandler	8	static
+stm32f4xx_it.c:173:6:USART1_IRQHandler	8	static
+stm32f4xx_it.c:187:6:DMA2_Stream2_IRQHandler	8	static
+stm32f4xx_it.c:201:6:DMA2_Stream7_IRQHandler	8	static
